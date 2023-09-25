@@ -3,16 +3,17 @@
 
 # Images Showing the functionality of the Password Generator
 
-- **[Screenshot 1]()**
-- **[Screenshot 2]()**
-- **[Screenshot 3]()**
-- **[Screenshot 4]()**
-- **[Screenshot 5]()**
-- **[Screenshot 6]()**
-- **[Screenshot 7]()**
-- **[Screenshot 8]()**
-- **[Screenshot 9]()**
-- **[Screenshot 10]()**
+- **[Screenshot 1](./assets/images/Screenshot%201.png)**
+- **[Screenshot 2](./assets/images/Screenshot%202.png)**
+- **[Screenshot 3](./assets/images/Screenshot%203.png)**
+- **[Screenshot 4](./assets/images/Screenshot%204.png)**
+- **[Screenshot 5](./assets/images/Screenshot%205.png)**
+- **[Screenshot 6](./assets/images/Screenshot%206.png)**
+- **[Screenshot 7](./assets/images/Screenshot%207.png)**
+- **[Screenshot 8](./assets/images/Screenshot%208.png)**
+- **[Screenshot 9](./assets/images/Screenshot%209.png)**
+- **[Screenshot 10](./assets/images/Screenshot%2010%20(Fully%20Functioning).png)**
+- **[Screenshot 11](./assets/images/Screenshot%20(deployed%20site%20active).png)**
 
 
- # Deployed ** **
+ # Deployed **https://victorsamuel-dev.github.io/Password_Generator/**
