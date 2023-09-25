@@ -1,5 +1,5 @@
 # Password_Generator
- - Creatign a responsive password generator in order to provide random passwords;
+ - Creating a responsive password generator in order to provide random passwords;
 
 # Images Showing the functionality of the Password Generator
 
@@ -15,4 +15,4 @@
 - **[Screenshot 10](./Assets/Screenshot%2010%20(Fully%20Functioning).png)**
 - **[Screenshot 11](./Assets/Screenshot%20(deployed%20site%20active).png)**
 
-# Deployed 
+# Deployed
