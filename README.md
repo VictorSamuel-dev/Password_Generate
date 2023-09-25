@@ -15,4 +15,4 @@
 - **[Screenshot 10](./Assets/Screenshot%2010%20(Fully%20Functioning).png)**
 - **[Screenshot 11](./Assets/Screenshot%20(deployed%20site%20active).png)**
 
-# Deployed
+# Deployed *(https://victorsamuel-dev.github.io/Password_Generate/)*
