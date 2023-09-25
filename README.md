@@ -16,4 +16,4 @@
 - **[Screenshot 11](./assets/images/Screenshot%20(deployed%20site%20active).png)**
 
 
- # Deployed **https://victorsamuel-dev.github.io/Password_Generator/**
+ # Deployed **(https://victorsamuel-dev.github.io/Password_Generator/)**
