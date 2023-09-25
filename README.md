@@ -4,8 +4,8 @@
 # Images Showing the functionality of the Password Generator
 
 - **[Test 1](./Assets/images/Screenshot%201.png)**
-- **[Screenshot 2]()**
-- **[Screenshot 3]()**
+- **[Screenshot 2](./Assets/images/Screenshot%202.png)**
+- **[Screenshot 3](./Assets/images/Screenshot%203.png)**
 - **[Screenshot 4](./Assets/images/Screenshot%204.png)**
 - **[Screenshot 5](./Assets/images/Screenshot%205.png)**
 - **[Screenshot 6](./Assets/images/Screenshot%206.png)**
