@@ -16,7 +16,6 @@ function generatePassword(){
       password = password + choiceArr[randomIndex];
   }
   return password;
-  // console.log("Hey! You clicked the button!")
 }
 // 1. Give the user a prompt for the password critaria
 function getPrompts(){
@@ -43,22 +42,6 @@ function getPrompts(){
     return true;
 }
 
-// //    a. password length between 8 < 128
-// //    b. lowercase, uppercase, numbers, special characters,
-// const status = prompt("Hello! Create a password between 8 and 128 characters using lowercase, uppercase, numbers, and special characters!"); 
-// console.log(status);
-// // 2. Validating the input.
-
-
-// // 3. Generate the password based on criteria
-
-
-// // 4. Display the password to the page.
-//   return "Password I create will go here";
-
-// }
-
-// Write password to the #password input
 function writePassword() {
    var  correctPrompts = getPrompts();
    var passwordText = document.querySelector("#password");
