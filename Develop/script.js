@@ -11,6 +11,11 @@ var generateBtn = document.querySelector("#generate");
 
 function generatePassword(){
   var password = "";
+  for(var i = 0; i < characterLength; i++) {
+      var randomIndex = Math.floor(Math.random() * choiceArr.length);
+      password = password + choiceArr[randomIndex];
+  }
+  return password;
   // console.log("Hey! You clicked the button!")
 }
 // 1. Give the user a prompt for the password critaria
@@ -56,12 +61,13 @@ function getPrompts(){
 // Write password to the #password input
 function writePassword() {
    var  correctPrompts = getPrompts();
+   var passwordText = document.querySelector("#password");
 
   if (correctPrompts) {
-    var password = generatePassword();
-    var passwordText = document.querySelector("#password");
-  
-    passwordText.value = password;
+    var newPassword = generatePassword();
+    passwordText.value = newPassword;
+  } else {
+    passwordText.value = "";
   }
 
 }
